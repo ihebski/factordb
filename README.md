@@ -1,4 +1,4 @@
-## Get the primes of a number - frequently used for RSA tasks {CTFs}
+## Get the primes of a number - frequently used for the RSA tasks {CTFs}
 
 ![screen_1](http://i.imgur.com/7rkzbpU.png)
 
