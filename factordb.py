@@ -54,7 +54,7 @@ def banner():
 def usage():
     scr = os.path.basename(sys.argv[0])
     banner()
-    print bcolors.WARNING +"Usage: factordb {n}  \n"
+    print bcolors.WARNING +"Usage: python factordb.py {n}  \n"
 
 
 
