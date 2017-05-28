@@ -25,7 +25,7 @@ try:
 	import sys
 	import os
 except Exception as err:
-	print r+"[!] "+t+w+str(err)+t
+	print "[!] "+str(err)
 	sys.exit(0)
 
 
